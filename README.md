@@ -2,6 +2,9 @@
 
 Windows-style clipboard history (Win+V) for macOS. A lightweight menu bar app: press a shortcut, search or pick something you copied earlier, and it's pasted straight into the app you're using.
 
+<img width="728" height="969" alt="image" src="https://github.com/user-attachments/assets/a3e4881f-9d76-448e-8bbf-8785a0a25f2e" />
+
+
 ## Features
 
 - Text and image history, saved between restarts
